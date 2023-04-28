@@ -1,5 +1,4 @@
-function insert_Row() {
-    //Write your code here
+
   
     //Write your code here
   function insertRow() {
@@ -16,4 +15,4 @@ function insert_Row() {
   
 
   
-}
+
